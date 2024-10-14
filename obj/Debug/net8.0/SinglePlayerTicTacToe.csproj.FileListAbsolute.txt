@@ -1,0 +1,14 @@
+D:\monocept_c# learning\Assignment\SinglePlayerTicTacToe\SinglePlayerTicTacToe\bin\Debug\net8.0\SinglePlayerTicTacToe.exe
+D:\monocept_c# learning\Assignment\SinglePlayerTicTacToe\SinglePlayerTicTacToe\bin\Debug\net8.0\SinglePlayerTicTacToe.deps.json
+D:\monocept_c# learning\Assignment\SinglePlayerTicTacToe\SinglePlayerTicTacToe\bin\Debug\net8.0\SinglePlayerTicTacToe.runtimeconfig.json
+D:\monocept_c# learning\Assignment\SinglePlayerTicTacToe\SinglePlayerTicTacToe\bin\Debug\net8.0\SinglePlayerTicTacToe.dll
+D:\monocept_c# learning\Assignment\SinglePlayerTicTacToe\SinglePlayerTicTacToe\bin\Debug\net8.0\SinglePlayerTicTacToe.pdb
+D:\monocept_c# learning\Assignment\SinglePlayerTicTacToe\SinglePlayerTicTacToe\obj\Debug\net8.0\SinglePlayerTicTacToe.GeneratedMSBuildEditorConfig.editorconfig
+D:\monocept_c# learning\Assignment\SinglePlayerTicTacToe\SinglePlayerTicTacToe\obj\Debug\net8.0\SinglePlayerTicTacToe.AssemblyInfoInputs.cache
+D:\monocept_c# learning\Assignment\SinglePlayerTicTacToe\SinglePlayerTicTacToe\obj\Debug\net8.0\SinglePlayerTicTacToe.AssemblyInfo.cs
+D:\monocept_c# learning\Assignment\SinglePlayerTicTacToe\SinglePlayerTicTacToe\obj\Debug\net8.0\SinglePlayerTicTacToe.csproj.CoreCompileInputs.cache
+D:\monocept_c# learning\Assignment\SinglePlayerTicTacToe\SinglePlayerTicTacToe\obj\Debug\net8.0\SinglePlayerTicTacToe.dll
+D:\monocept_c# learning\Assignment\SinglePlayerTicTacToe\SinglePlayerTicTacToe\obj\Debug\net8.0\refint\SinglePlayerTicTacToe.dll
+D:\monocept_c# learning\Assignment\SinglePlayerTicTacToe\SinglePlayerTicTacToe\obj\Debug\net8.0\SinglePlayerTicTacToe.pdb
+D:\monocept_c# learning\Assignment\SinglePlayerTicTacToe\SinglePlayerTicTacToe\obj\Debug\net8.0\SinglePlayerTicTacToe.genruntimeconfig.cache
+D:\monocept_c# learning\Assignment\SinglePlayerTicTacToe\SinglePlayerTicTacToe\obj\Debug\net8.0\ref\SinglePlayerTicTacToe.dll
